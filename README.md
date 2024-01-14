@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lakhearpit
-- 👀 I’m interested in upskiling myself
+- 👀 I’m interested in upskilling myself
 - 🌱 I’m currently learning web devlopment, power bi
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me -> search my name on likedin
